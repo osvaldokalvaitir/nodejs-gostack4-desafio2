@@ -1,8 +1,8 @@
 {
-  "name": "node-modulo2",
+  "name": "node-desafio2",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/osvaldokalvaitir/node-modulo2.git",
+  "repository": "https://github.com/osvaldokalvaitir/node-desafio2.git",
   "author": "osvaldokalvaitir <osvaldokalvaitir@outlook.com>",
   "license": "MIT",
   "scripts": {
