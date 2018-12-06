@@ -1,5 +1,9 @@
 # Node - Desafio 2
 
+Aplicação GoBarber usando Node.js, Express, Nunjucks e Sequelize.
+
+## Desafio
+
 Nesse segundo desafio você deve melhorar a aplicação que criamos até agora, o GoBarber.
 
 Até agora criamos a parte do usuário poder agendar um serviço com o prestador, e também vetamos que serviços sejam marcados no mesmo horário, ou em horários que já passaram.
@@ -7,8 +11,6 @@ Até agora criamos a parte do usuário poder agendar um serviço com o prestador
 A partir de agora você deve implementar o seguinte:
 
 Crie uma seção para o prestador de serviços acompanhar os agendamentos do dia programados com ele. Essa seção deve incluir as informações do usuário que agendou e também o horário do agendamento.
-
-Aplicação GoBarber usando Node.js, Express, Nunjucks e Sequelize.
 
 ## Resumo
 
@@ -101,6 +103,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
 
 - [Nunjucks](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nunjucks.md)
+
+- [Nunjucks Date Filter Local](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nunjucks-date-filter-local.md)
 
 - [pg](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/pg.md)
 
