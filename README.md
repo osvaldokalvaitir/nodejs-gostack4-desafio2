@@ -128,4 +128,4 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/docker.md)
 
-  - [Imagem do PostgreSQL](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/postgresql.md)
+  - Imagem do PostgreSQL: [katoza-postgis](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/katoza-postgis.md)
