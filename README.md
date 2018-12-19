@@ -12,16 +12,6 @@ A partir de agora você deve implementar o seguinte:
 
 Crie uma seção para o prestador de serviços acompanhar os agendamentos do dia programados com ele. Essa seção deve incluir as informações do usuário que agendou e também o horário do agendamento.
 
-## Resumo
-
-Esta aplicação foi desenvolvida para realizar os seguintes procedimentos:
-
-- Adiciona novos usuários
-- Lista todos os prestadores de serviços
-- Lista todos os horários disponíveis referentes ao prestador selecionado
-- Agenda um novo serviço
-- Lista todos os agendamentos que foram realizados pelos clientes com o prestador de serviço que está logado
-
 ## Índice
 
 - [Telas](#telas)
@@ -35,6 +25,8 @@ Esta aplicação foi desenvolvida para realizar os seguintes procedimentos:
   - [Compromissos](#compromissos)
 
   - [Agendamentos](#agendamentos)
+  
+- [Rotas](#rotas)  
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -75,6 +67,14 @@ Nesta tela, você poderá agendar um horário que esteja disponível do prestado
 
 ![Screenshoot Schedule](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/screenshots/Schedule.png)
 Nesta tela estão todos os agendamentos que foram realizados pelos clientes com o prestador de serviço que está logado.
+
+## Rotas
+
+- Adiciona novos usuários
+- Lista todos os prestadores de serviços
+- Lista todos os horários disponíveis referentes ao prestador selecionado
+- Agenda um novo serviço
+- Lista todos os agendamentos que foram realizados pelos clientes com o prestador de serviço que está logado
 
 ## Desenvolvimento
 
