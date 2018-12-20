@@ -1,4 +1,4 @@
-# Node - Desafio 2
+﻿# Node - Desafio 2
 
 Aplicação GoBarber usando Node.js, Express, Nunjucks e Sequelize.
 
@@ -44,28 +44,28 @@ Crie uma seção para o prestador de serviços acompanhar os agendamentos do dia
 
 ### Login
 
-![Screenshoot SignIn](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/screenshots/SignIn.png)
+![SignIn](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/assets/SignIn.png)
 Esta é a primeira tela do site, para entrar o usuário terá que digitar seu usuário e senha registrados.
 Se o usário não tem ainda um cadastro no site, precisa clicar em 'Criar conta grátis' que será redirecionado a página de registro.
 
 ### Registro
 
-![Screenshoot SignUp](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/screenshots/SignUp.png)
+![SignUp](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/assets/SignUp.png)
 Esta tela é responsável pelo registro do usuário onde serão obrigatórios os preenchimentos dos campos como nome, e-mail e senha, escolher uma foto para o avatar e informar se ele é um prestador de serviços.
 
 ### Início
 
-![Screenshoot Dashboard](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/screenshots/Dashboard.png)
+![Dashboard](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/assets/Dashboard.png)
 Esta é a tela principal do site, onde você vai encontrar uma lista com todos os prestadores de serviços, poderá iniciar um agendamento com o prestador dê sua preferência, se você for um prestador poderá visualizar seus agendamentos e tem a opção também de sair da sua conta.
 
 ### Compromissos
 
-![Screenshoot Appointments](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/screenshots/Appointments.png)
+![Appointments](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/assets/Appointments.png)
 Nesta tela, você poderá agendar um horário que esteja disponível do prestador de serviço selecionado.
 
 ### Agendamentos
 
-![Screenshoot Schedule](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/screenshots/Schedule.png)
+![Schedule](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/assets/Schedule.png)
 Nesta tela estão todos os agendamentos que foram realizados pelos clientes com o prestador de serviço que está logado.
 
 ## Rotas
