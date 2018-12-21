@@ -44,28 +44,28 @@ Crie uma seção para o prestador de serviços acompanhar os agendamentos do dia
 
 ### Login
 
-![SignIn](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/assets/SignIn.png)
+![SignIn](/assets/signin.png)
 Esta é a primeira tela do site, para entrar o usuário terá que digitar seu usuário e senha registrados.
 Se o usário não tem ainda um cadastro no site, precisa clicar em 'Criar conta grátis' que será redirecionado a página de registro.
 
 ### Registro
 
-![SignUp](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/assets/SignUp.png)
+![SignUp](/assets/signup.png)
 Esta tela é responsável pelo registro do usuário onde serão obrigatórios os preenchimentos dos campos como nome, e-mail e senha, escolher uma foto para o avatar e informar se ele é um prestador de serviços.
 
 ### Início
 
-![Dashboard](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/assets/Dashboard.png)
+![Dashboard](/assets/dashboard.png)
 Esta é a tela principal do site, onde você vai encontrar uma lista com todos os prestadores de serviços, poderá iniciar um agendamento com o prestador dê sua preferência, se você for um prestador poderá visualizar seus agendamentos e tem a opção também de sair da sua conta.
 
 ### Compromissos
 
-![Appointments](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/assets/Appointments.png)
+![Appointments](/assets/appointments.png)
 Nesta tela, você poderá agendar um horário que esteja disponível do prestador de serviço selecionado.
 
 ### Agendamentos
 
-![Schedule](https://github.com/osvaldokalvaitir/node-desafio2/blob/master/assets/Schedule.png)
+![Schedule](/assets/schedule.png)
 Nesta tela estão todos os agendamentos que foram realizados pelos clientes com o prestador de serviço que está logado.
 
 ## Rotas
