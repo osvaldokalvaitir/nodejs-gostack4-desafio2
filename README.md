@@ -128,6 +128,6 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [DBeaver](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/dbeaver.md)
 
-- [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/docker.md)
+- [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/docker.md)
 
-  - Imagem do PostgreSQL: [katoza-postgis](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/katoza-postgis.md)
+  - Imagem do PostgreSQL: [katoza-postgis](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/images/katoza-postgis.md)
