@@ -35,8 +35,8 @@ Crie uma seção para o prestador de serviços acompanhar os agendamentos do dia
   - [Compromissos](#compromissos)
 
   - [Agendamentos](#agendamentos)
-  
-- [Rotas](#rotas)  
+
+- [Rotas](#rotas)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -80,11 +80,35 @@ Nesta tela estão todos os agendamentos que foram realizados pelos clientes com 
 
 ## Rotas
 
-- Adiciona novos usuários
-- Lista todos os prestadores de serviços
-- Lista todos os horários disponíveis referentes ao prestador selecionado
-- Agenda um novo serviço
-- Lista todos os agendamentos que foram realizados pelos clientes com o prestador de serviço que está logado
+- Prestadores de serviços
+
+  - Lista todos os prestadores de serviços
+
+- Compromissos
+
+  - Lista todos os compromissos de um prestador
+  - Adiciona novos compromissos
+
+- Disponíveis
+
+  - Lista todos os compromissos de um prestador e de uma data
+
+- Agendamentos
+
+  - Lista todos os agendamentos de clientes de um prestador
+
+- Usuários
+
+  - Adiciona novos usuários
+
+- Sessões
+
+  - Adiciona novas sessões
+  - Exclui sessões existentes
+
+- Arquivos
+
+  - Lista um arquivo
 
 ## Desenvolvimento
 
