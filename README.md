@@ -24,7 +24,7 @@ Crie uma seção para o prestador de serviços acompanhar os agendamentos do dia
 
 ## Índice
 
-- [Telas](#telas)
+- [Capturas de Tela](#capturas-de-tela)
 
   - [Login](#login)
 
@@ -36,8 +36,6 @@ Crie uma seção para o prestador de serviços acompanhar os agendamentos do dia
 
   - [Agendamentos](#agendamentos)
 
-- [Rotas](#rotas)
-
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configurações Iniciais](#configurações-iniciais)
@@ -46,11 +44,15 @@ Crie uma seção para o prestador de serviços acompanhar os agendamentos do dia
 
   - [Execução do Projeto](#execução-do-projeto)
 
+- [Utilizados no Projeto](#utilizados-no-projeto)
+
   - [Bibliotecas](#bibliotecas)
 
-  - [Outras Ferramentas](#outras-ferramentas)
+  - [APIs](#apis)
 
-## Telas
+  - [Ferramentas](#ferramentas)
+
+## Capturas de Tela
 
 ### Login
 
@@ -78,38 +80,6 @@ Nesta tela, você poderá agendar um horário que esteja disponível do prestado
 ![Schedule](/assets/schedule.png)
 Nesta tela estão todos os agendamentos que foram realizados pelos clientes com o prestador de serviço que está logado.
 
-## Rotas
-
-- Prestadores de serviços
-
-  - Lista todos os prestadores de serviços
-
-- Compromissos
-
-  - Lista todos os compromissos de um prestador
-  - Adiciona novos compromissos
-
-- Disponíveis
-
-  - Lista todos os compromissos de um prestador e de uma data
-
-- Agendamentos
-
-  - Lista todos os agendamentos de clientes de um prestador
-
-- Usuários
-
-  - Adiciona novos usuários
-
-- Sessões
-
-  - Adiciona novas sessões
-  - Exclui sessões existentes
-
-- Arquivos
-
-  - Lista um arquivo
-
 ## Desenvolvimento
 
 ### Configurações Iniciais
@@ -123,6 +93,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Execução do Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
+
+## Utilizados no Projeto
 
 ### Bibliotecas
 
@@ -158,7 +130,43 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Session File Store](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/session-file-store.md)
 
-### Outras Ferramentas
+### APIs
+
+- **Interna**
+
+  - **Rotas**
+
+    - Prestadores de serviços
+
+      - Lista todos os prestadores de serviços
+
+    - Compromissos
+
+      - Lista todos os compromissos de um prestador
+      - Adiciona novos compromissos
+
+    - Disponíveis
+
+      - Lista todos os compromissos de um prestador e de uma data
+
+    - Agendamentos
+
+      - Lista todos os agendamentos de clientes de um prestador
+
+    - Usuários
+
+      - Adiciona novos usuários
+
+    - Sessões
+
+      - Adiciona novas sessões
+      - Exclui sessões existentes
+
+    - Arquivos
+
+      - Lista um arquivo
+
+### Ferramentas
 
 - [DBeaver](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/dbeaver.md)
 
