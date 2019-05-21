@@ -58,7 +58,7 @@ Crie uma seção para o prestador de serviços acompanhar os agendamentos do dia
 
 ![SignIn](/assets/signin.png)
 Esta é a primeira tela do site, para entrar o usuário terá que digitar seu usuário e senha registrados.
-Se o usário não tem ainda um cadastro no site, precisa clicar em 'Criar conta grátis' que será redirecionado a página de registro.
+Se o usário não tem ainda um cadastro no site, precisa clicar em `Criar conta grátis` que será redirecionado a página de registro.
 
 ### Registro
 
@@ -84,15 +84,15 @@ Nesta tela estão todos os agendamentos que foram realizados pelos clientes com 
 
 ### Configurações Iniciais
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga as Configurações Iniciais.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configurações Iniciais`.
 
 ### Instalação do Projeto
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Instalação de Projeto.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
 
 ### Execução do Projeto
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Execução de Projeto`.
 
 ## Utilizados no Projeto
 
@@ -110,7 +110,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Express Session](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express-session.md)
 
-- [Flatpickr](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/flatpickr.md) - Seguir CDN
+- [Flatpickr](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/flatpickr.md) - Siga `CDN`
 
 - [Moment](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/moment.md)
 
