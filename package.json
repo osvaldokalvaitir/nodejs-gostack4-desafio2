@@ -1,14 +1,14 @@
 {
-  "name": "node-desafio2",
+  "name": "nodejs-desafio2",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/osvaldokalvaitir/node-desafio2.git",
+  "repository": "https://github.com/osvaldokalvaitir/nodejs-desafio2.git",
   "author": "osvaldokalvaitir <osvaldokalvaitir@outlook.com>",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon src/index.js -e js",
     "start": "node src/index.js"
-  },     
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
