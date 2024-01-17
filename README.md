@@ -54,7 +54,7 @@ npm install | yarn
 npm run dev | yarn dev
 ```
 
-Click to learn more about the tools used: [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia/insomnia.md), [Docker](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/docker.md), [PostgreSQL Docker Image kartoza-postgis](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/images/kartoza-postgis.md), [DBeaver](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/multiples/dbeaver.md).
+Click to learn more about the tools used: [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia.md), [Docker](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker.md), [PostgreSQL Docker Image kartoza-postgis](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/images/kartoza-postgis.md), [DBeaver](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/multiples/dbeaver.md).
 
 ## :memo: License
 
